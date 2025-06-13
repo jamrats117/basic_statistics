@@ -35,3 +35,4 @@
 
 * H₀: ตัวแปร 2 ตัวไม่สัมพันธ์กัน (independent)
 * H₁: ตัวแปร 2 ตัวสัมพันธ์กัน (associated)
+* ≥1 cell มี expected < 5
